@@ -11,5 +11,5 @@ In a typical Databricks environment, would install databrick-connect, through pi
 That way, we will be able to test the changes on the databricks dev cluster itself, if there is one. 
 Also, that gives us the flexibility to work with abfss:// or  s3:// from the PyCharm IDE itself.
 
-And, we will also be able to work with delta:// files within Databricks.
+And, we will also be able to work with delta format files within Databricks.
 
